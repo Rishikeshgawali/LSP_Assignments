@@ -29,6 +29,6 @@ Ensure that you have the following tools installed:
 - Make sure to have the necessary permissions to execute system-level commands.
 
 ### Repository Link
-https://github.com/Rishikeshgawali/LSP_Assignment
+https://github.com/Rishikeshgawali/LSP_Assignments
 
 
